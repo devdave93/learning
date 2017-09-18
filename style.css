@@ -185,7 +185,7 @@ figcaption{
 	margin-top: 50px;
 	text-transform: uppercase;
 	display: flex;
-	
+	flex-wrap: wrap;
 	text-align: center;
 }
 
@@ -212,7 +212,6 @@ main{
 
 .flex-gallery img{
 	width: 320px;
-	height: 220px;
 	padding:15px;
 }
 
